@@ -1,2 +1,1 @@
-#Example Respositoy
-This is a sample repo, hello world !
+This script provides encap vlans on ACI  
